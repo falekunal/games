@@ -1,3 +1,3 @@
 # games
-this repository contains the basic games based on python3 programming language.
-# #trythemout
+this repository contains the games based on python3 programming language.
+
